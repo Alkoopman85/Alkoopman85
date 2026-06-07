@@ -34,8 +34,8 @@ I'm using this as a place to collect older data science work, current learning p
 
 ### Tools and environment
 
-- [NeovimLazy](https://github.com/Alkoopman85/NeovimLazy)  
-  My public Neovim/Lazy.nvim configuration. This is a tooling repo, not the source of truth for private machine-specific configuration.
+- [nvim](https://github.com/Alkoopman85/nvim)  
+  Personal Neovim configuration using Lazy.nvim, explicit LSP setup, Ruff/Pyright, Telescope, Treesitter, and formatting/linting plugins.
 
 ## Current builds
 
